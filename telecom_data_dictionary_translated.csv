@@ -1,0 +1,41 @@
+﻿Table,Field,Mô tả (Tiếng Việt)
+Customer Churn,CustomerID,Một ID duy nhất xác định từng khách hàng
+Customer Churn,Gender,"Giới tính của khách hàng: nam, nữ"
+Customer Churn,Age,"Tuổi hiện tại của khách hàng, tính bằng năm, tại thời điểm quý tài chính kết thúc (quý 2 2022)"
+Customer Churn,Married,"Cho biết nếu khách hàng đã kết hôn: Có, không"
+Customer Churn,Number of Dependents,"Cho biết số lượng người phụ thuộc sống với khách hàng (người phụ thuộc có thể là con cái, cha mẹ, ông bà, v.v.)"
+Customer Churn,City,Nơi cư trú chính của thành phố của khách hàng ở California
+Customer Churn,Zip Code,Mã zip của nơi cư trú chính của khách hàng
+Customer Churn,Latitude,Vĩ độ của nơi cư trú chính của khách hàng
+Customer Churn,Longitude,Kinh độ của nơi cư trú chính của khách hàng
+Customer Churn,Number of Referrals,Cho biết số lần khách hàng đã giới thiệu một người bạn hoặc thành viên gia đình cho công ty này cho đến nay
+Customer Churn,Tenure in Months,Chỉ ra tổng số tháng mà khách hàng đã ở với công ty vào cuối quý được chỉ định ở trên
+Customer Churn,Offer,"Xác định ưu đãi tiếp thị cuối cùng mà khách hàng chấp nhận: Không, cung cấp A, Ưu đãi B, Cung cấp C, Ưu đãi D, Cung cấp E"
+Customer Churn,Phone Service,z
+Customer Churn,Avg Monthly Long Distance Charges,"Cho biết các khoản phí đường dài trung bình của khách hàng, được tính đến cuối quý được chỉ định ở trên (nếu khách hàng không được đăng ký dịch vụ điện thoại gia đình, đây sẽ là 0)"
+Customer Churn,Multiple Lines,"Cho biết nếu khách hàng đăng ký nhiều đường dây điện thoại với công ty: Có, không (nếu khách hàng không đăng ký dịch vụ điện thoại tại nhà, điều này sẽ không)"
+Customer Churn,Internet Service,"Cho biết nếu khách hàng đăng ký dịch vụ Internet với công ty: Có, không"
+Customer Churn,Internet Type,"Cho biết loại kết nối internet của khách hàng: DSL, sợi quang, cáp (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không có)"
+Customer Churn,Avg Monthly GB Download,"Cho biết khối lượng tải xuống trung bình của khách hàng trong gigabyte, được tính đến cuối quý được chỉ định ở trên (nếu khách hàng không được đăng ký dịch vụ Internet, đây sẽ là 0)"
+Customer Churn,Online Security,"Cho biết nếu khách hàng đăng ký một dịch vụ bảo mật trực tuyến bổ sung do công ty cung cấp: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Online Backup,"Cho biết nếu khách hàng đăng ký dịch vụ sao lưu trực tuyến bổ sung do công ty cung cấp: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Device Protection Plan,"Cho biết nếu khách hàng đăng ký kế hoạch bảo vệ thiết bị bổ sung cho thiết bị Internet của họ do công ty cung cấp: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Premium Tech Support,"Cho biết nếu khách hàng đăng ký kế hoạch hỗ trợ kỹ thuật bổ sung từ công ty với thời gian chờ giảm: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Streaming TV,"Cho biết nếu khách hàng sử dụng dịch vụ Internet của họ để truyền phát chương trình truyền hình từ nhà cung cấp bên thứ ba mà không phải trả thêm phí: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Streaming Movies,"Cho biết nếu khách hàng sử dụng dịch vụ Internet của họ để truyền phát phim từ nhà cung cấp bên thứ ba mà không phải trả thêm phí: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Streaming Music,"Cho biết nếu khách hàng sử dụng dịch vụ Internet của họ để phát nhạc từ nhà cung cấp bên thứ ba mà không phải trả thêm phí: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Unlimited Data,"Cho biết nếu khách hàng đã trả thêm một khoản phí hàng tháng để tải xuống dữ liệu/tải lên không giới hạn: Có, không (nếu khách hàng không đăng ký dịch vụ Internet, điều này sẽ không)"
+Customer Churn,Contract,"Cho biết loại hợp đồng hiện tại của khách hàng: hàng tháng, một năm, hai năm"
+Customer Churn,Paperless Billing,"Cho biết nếu khách hàng đã chọn thanh toán không giấy tờ: Có, không"
+Customer Churn,Payment Method,"Cho biết cách khách hàng thanh toán hóa đơn của họ: rút tiền ngân hàng, thẻ tín dụng, séc qua thư"
+Customer Churn,Monthly Charge,Cho biết tổng phí hàng tháng hiện tại của khách hàng cho tất cả các dịch vụ của họ từ công ty
+Customer Churn,Total Charges,"Cho biết tổng phí của khách hàng, được tính đến cuối quý được chỉ định ở trên"
+Customer Churn,Total Refunds,"Cho biết tổng số tiền hoàn lại của khách hàng, được tính đến cuối quý được chỉ định ở trên"
+Customer Churn,Total Extra Data Charges,"Cho biết tổng phí của khách hàng cho các bản tải xuống dữ liệu thêm trên các khoản tải xuống được chỉ định trong gói của họ, vào cuối quý được chỉ định ở trên"
+Customer Churn,Total Long Distance Charges,"Cho biết tổng phí của khách hàng trong khoảng cách xa trên các khoản phí được chỉ định trong kế hoạch của họ, vào cuối quý được chỉ định ở trên"
+Customer Churn,Total Revenue,"Cho biết tổng doanh thu của công ty từ khách hàng này, được tính đến cuối quý được chỉ định ở trên (tổng phí - tổng số tái sử dụng + tổng phí dữ liệu thêm + tổng phí khoảng cách lond)"
+Customer Churn,Customer Status,"Chỉ ra tình trạng của khách hàng vào cuối quý: đã khuấy động, ở lại hoặc tham gia"
+Customer Churn,Churn Category,"Một danh mục cấp cao vì lý do của khách hàng, được hỏi khi họ rời khỏi công ty: thái độ, đối thủ cạnh tranh, sự không hài lòng, khác, giá cả (liên quan trực tiếp đến lý do churn)"
+Customer Churn,Churn Reason,"Lý do cụ thể của khách hàng để rời khỏi công ty, được hỏi khi họ rời công ty (liên quan trực tiếp đến danh mục Churn)"
+Zip Code Population,Zip Code,Mã zip của nơi cư trú chính của khách hàng
+Zip Code Population,Population,Ước tính dân số hiện tại cho toàn bộ khu vực mã zip
